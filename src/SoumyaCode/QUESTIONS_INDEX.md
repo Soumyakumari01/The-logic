@@ -1,4 +1,4 @@
-# Questions Index (AvinashCode)
+# Questions Index (SoumyaCode)
 
 Generated from `MASTER_YOUR_LOGIC_BUILDING.md`.
 

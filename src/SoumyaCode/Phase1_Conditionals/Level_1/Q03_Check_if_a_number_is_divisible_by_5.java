@@ -1,4 +1,4 @@
-package AvinashCode.Phase1_Conditionals.Level_1;
+package SoumyaCode.Phase1_Conditionals.Level_1;
 
 import java.util.Scanner;
 
